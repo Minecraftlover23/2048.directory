@@ -87,3 +87,8 @@
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+  
+- name: 2048 CUPCAKES
+  url: http://0x0800.github.io/2048-CUPCAKES/
+  image: http://2048strategy.com/wp-content/uploads/2014/03/2048cupcakes.jpg
+  description: 2048 CUPCAKES
